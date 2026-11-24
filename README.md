@@ -65,12 +65,16 @@ Na avaliação inicial, foi estimada uma melhoria de aproximadamente 20% no temp
 
 As capturas de tela abaixo demonstram as principais funcionalidades e etapas de desenvolvimento da aplicação.
 
+<img width="1871" height="770" alt="09" src="https://github.com/user-attachments/assets/0151c8bf-5f14-4230-878c-4e0c0c3bb279" />
 <img width="1896" height="545" alt="06" src="https://github.com/user-attachments/assets/87edddc0-8854-4cbb-ab0d-601e1d032d7a" />
 <img width="1132" height="747" alt="05" src="https://github.com/user-attachments/assets/839e0c44-5e05-44a9-9b91-f7e05287999a" />
 <img width="1352" height="857" alt="04" src="https://github.com/user-attachments/assets/957ae8b3-6ae3-4dde-a744-3350dfd81d02" />
 <img width="1451" height="882" alt="03" src="https://github.com/user-attachments/assets/090daead-0307-46a3-8069-db2d279ec05c" />
 <img width="1902" height="630" alt="02" src="https://github.com/user-attachments/assets/1770c9ad-c2e7-47e7-a8be-edf5adbf9066" />
 <img width="1896" height="855" alt="01" src="https://github.com/user-attachments/assets/7bac1a43-7f49-4ebd-99fd-06edd1237df7" />
+<img width="1865" height="550" alt="08" src="https://github.com/user-attachments/assets/7dc00914-c841-4896-9c09-a3683e28cf3f" />
+<img width="1475" height="742" alt="07" src="https://github.com/user-attachments/assets/c40dc22b-67a6-46e4-a57f-181eb87dfdca" />
+
 
 
 # Status do projeto
